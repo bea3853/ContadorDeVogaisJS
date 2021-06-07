@@ -1,7 +1,7 @@
 # ContadorDeVogaisJS
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/Calculadora/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/ContadorDeVogaisJS/blob/master/LICENSE)
 
   
 
