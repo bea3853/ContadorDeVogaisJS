@@ -1,4 +1,4 @@
-prompt(vogais("Beatriz"));
+prompt(vogais("Beatriz Alves"));
 
 function vogais(str) {
   var count = 0;
