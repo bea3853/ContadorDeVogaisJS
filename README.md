@@ -13,7 +13,8 @@ Em JS o sistema conta vogais.
 
   
 #  Tecnologias utilizadas
-##JS
+## JS
+
 
 
 
